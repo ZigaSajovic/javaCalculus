@@ -1,5 +1,3 @@
-package polyDraw.math;
-
 public class EquationSolver {
 	
 	double[][] matrix;
