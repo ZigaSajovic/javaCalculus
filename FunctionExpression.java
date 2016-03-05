@@ -1,5 +1,3 @@
-package polyDraw.math;
-
 public class FunctionExpression {
 	FunctionExpression left;
 	FunctionExpression right;
