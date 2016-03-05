@@ -5,7 +5,7 @@ Written for and tested on machine learning software, where analytic derivatives 
 
 Class "ExampleCalculus" contains the main method and examples of use.
 
-Class "Function" contains instructions on adding functions to the base (method "evaluate)
+Class "Function" contains instructions on adding function mappings (method "evaluate")
 
 Class "FunctionExpression" builds function expression trees out of functions.
 
