@@ -1,5 +1,3 @@
-package polyDraw.math;
-
 public class Distance {
 	
 	private static double dotProduct(int[] pointA, int[] pointB, int[] pointC)
