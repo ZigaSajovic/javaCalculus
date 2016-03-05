@@ -1,5 +1,3 @@
-package polyDraw.math;
-
 import java.util.ArrayList;
 
 
