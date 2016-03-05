@@ -1,5 +1,3 @@
-package polyDraw.math;
-
 public class Vec {
 	
 	public static double dotProd(double[] a, double[] b){
