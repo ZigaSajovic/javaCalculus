@@ -9,7 +9,7 @@ Class "Function" contains instructions on adding function mappings (method "eval
 
 Class "FunctionExpression" builds function expression trees out of functions.
 
-Class "Calculus" contains instructions on adding derivative maps for added functions (method "derive"). The class performs evaluations of function expressions and differentiation. Derivatives are returned as analytic function expressions.
+Class "Calculus" contains instructions on adding derivative maps for added functions (method "derive"). The class performs evaluations of function expressions and differentiation. Derivatives are returned as analytic function expressions. Method "getDerivatives" returns the gradient vector functional expression.
 
 Class "GradientDescent" performs optimizations, methods contain a boolean parameter "convex", which when "false" transforms the problem into a space where all saddle points are local extrema. To be used with Lagrangians.
 
