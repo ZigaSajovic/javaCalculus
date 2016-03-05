@@ -15,6 +15,6 @@ Class "GradientDescent" performs optimizations, methods contain a boolean parame
 
 Class "LeastSquares" minimizes min|Ax-b|, it employs the "Matrix" class provided here.
 
-Other classes added, that are may be helpful on projects in need of analytic derivatives. Such as EquationSolver, basic vector (Vec) and matrix (Matrix) algebra, basic statistics (Stat), distances in 3D space (point to line, line to line, etc.) 
+Other classes added, that may be helpful on projects in need of analytic derivatives. Such as EquationSolver, basic vector (Vec) and matrix (Matrix) algebra, basic statistics (Stat), distances in 3D space (point to line, line to line, etc.) 
 
 All are free to employ and modify for personal use.
