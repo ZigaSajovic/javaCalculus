@@ -10,3 +10,5 @@ Class "Function" contains instructions on adding function mappings (method "eval
 Class "FunctionExpression" builds function expression trees out of functions.
 
 Class "Calculus" contains instructions on adding derivative maps for added functions (method "derive"). The class performs evaluations of function expressions and differentiation. Derivatives are returned as analytic function expressions.
+
+Other classes added, that are may be helpful on projects in need of analytic derivatives. Such as EquationSolver, basic vector (Vec) and matrix (Matric) algebra, basic statistics (Stat), distances in 3D space (point to line, line to line, etc.) 
