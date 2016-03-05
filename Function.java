@@ -1,6 +1,3 @@
-package polyDraw.math;
-
-
 public class Function{
 	String variable;
 	String expression;
