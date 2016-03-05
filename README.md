@@ -1,7 +1,7 @@
 # javaCalculus
 Symbolic differentiation and optimization.
 
-Written for and tested on machine learning software, where analytic derivatives were needed. Expression trees are build as FunctionExpressions, library as is, does not parse strings. It supports compositions of functions.
+Written for and tested on machine learning software, where analytic derivatives were needed. Expression trees are build as FunctionExpressions, library as is, does not parse strings. It supports compositions of functions. Library is self contained, no dependacies outside java-built-in functionalities.
 
 Class "ExampleCalculus" contains the main method and examples of use.
 
