@@ -1,5 +1,5 @@
 # javaCalculus
-Symbolic differentiation and optimization.
+Symbolic multivariate differentiation and optimization.
 
 Written for and tested on machine learning software, where analytic derivatives were needed. Expression trees are build as FunctionExpressions, library as is, does not parse strings. It supports compositions of functions. The library is self contained, no dependacies outside java-built-in functionalities.
 
