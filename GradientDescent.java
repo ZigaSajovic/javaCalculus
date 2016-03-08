@@ -36,8 +36,8 @@ public class GradientDescent {
 		}
 	}
 	
-	public static ArrayList<Double> descent(ArrayList<Double> startPoint,FunctionExpression functionExpression, boolean convex){
-		if(convex) return descent(startPoint,functionExpression);
+	public static ArrayList<Double> descent(ArrayList<Double> startPoint,FunctionExpression functionExpression, boolean saddle){
+		if(!saddle) return descent(startPoint,functionExpression);
 		else return descent(startPoint,Calculus.lengthOfGradient(functionExpression));
 	}
 	
