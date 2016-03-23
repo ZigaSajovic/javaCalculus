@@ -17,4 +17,4 @@ Class "LeastSquares" minimizes min|Ax-b|, it employs the "Matrix" class provided
 
 Other classes added, that may be helpful on projects in need of analytic derivatives. Such as EquationSolver, basic vector (Vec) and matrix (Matrix) algebra, basic statistics (Stat), distances in 3D space (point to line, line to line, etc.) 
 
-All are free to employ and modify for personal use.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">javaCalculus</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://si.linkedin.com/in/zigasajovic" property="cc:attributionName" rel="cc:attributionURL">Žiga Sajovic</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
